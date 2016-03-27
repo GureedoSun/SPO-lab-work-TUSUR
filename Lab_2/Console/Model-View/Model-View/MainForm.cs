@@ -154,9 +154,7 @@ namespace Model_View
 
         private void buttonAdd_Click(object sender, EventArgs e)
         {
-            /// <summary>
-            /// Добавление обьекта в таблицу
-            /// </summary>
+
             New_Figures f = new New_Figures();
             IFigure figure = null;
             f.ShowDialog();
@@ -244,11 +242,6 @@ namespace Model_View
         }
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
         {
 
         }
