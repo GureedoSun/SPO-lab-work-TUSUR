@@ -154,7 +154,9 @@ namespace Model_View
 
         private void buttonAdd_Click(object sender, EventArgs e)
         {
-
+            /// <summary>
+            /// Добавление обьекта в таблицу
+            /// </summary>
             New_Figures f = new New_Figures();
             IFigure figure = null;
             f.ShowDialog();
@@ -175,7 +177,9 @@ namespace Model_View
         private int selectedRow;
         private void buttonRemoveData_Click(object sender, EventArgs e)
         {
-
+            /// <summary>
+            /// Удаление обьекта
+            /// </summary>
             DialogResult result = MessageBox.Show("Удалить обьект?", "Удалить", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (result == DialogResult.Yes)
             {
