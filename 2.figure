@@ -1,0 +1,190 @@
+[
+  {
+    "$type": "Model.ball, Model",
+    "Name": "Шар",
+    "radius": 4
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 98,
+    "B": 32,
+    "C": 7
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 90,
+    "B": 34,
+    "C": 1
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 84.0,
+    "H": 19.0
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 38,
+    "B": 99,
+    "C": 10
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 5,
+    "B": 67,
+    "C": 7
+  },
+  {
+    "$type": "Model.ball, Model",
+    "Name": "Шар",
+    "radius": 6
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 82.0,
+    "H": 1.0
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 91.0,
+    "H": 82.0
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 64,
+    "B": 9,
+    "C": 5
+  },
+  {
+    "$type": "Model.ball, Model",
+    "Name": "Шар",
+    "radius": 1
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 41,
+    "B": 65,
+    "C": 5
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 42.0,
+    "H": 27.0
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 76.0,
+    "H": 3.0
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 79,
+    "B": 60,
+    "C": 6
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 38,
+    "B": 55,
+    "C": 14
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 72.0,
+    "H": 69.0
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 91,
+    "B": 74,
+    "C": 12
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 5.0,
+    "H": 67.0
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 86.0,
+    "H": 65.0
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 54,
+    "B": 7,
+    "C": 7
+  },
+  {
+    "$type": "Model.ball, Model",
+    "Name": "Шар",
+    "radius": 5
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 42,
+    "B": 15,
+    "C": 13
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 73.0,
+    "H": 67.0
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 42,
+    "B": 99,
+    "C": 3
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 80,
+    "B": 77,
+    "C": 7
+  },
+  {
+    "$type": "Model.Piramide, Model",
+    "Name": "Пирамида",
+    "S": 64.0,
+    "H": 4.0
+  },
+  {
+    "$type": "Model.ball, Model",
+    "Name": "Шар",
+    "radius": 4
+  },
+  {
+    "$type": "Model.Parallelepiped, Model",
+    "Name": "Паралелепипед",
+    "A": 78,
+    "B": 84,
+    "C": 11
+  },
+  {
+    "$type": "Model.ball, Model",
+    "Name": "Шар",
+    "radius": 1
+  }
+]
