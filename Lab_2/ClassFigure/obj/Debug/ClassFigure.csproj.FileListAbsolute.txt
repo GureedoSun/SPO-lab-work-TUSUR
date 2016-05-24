@@ -1,0 +1,4 @@
+c:\users\greed\documents\visual studio 2015\Projects\ClassFigure\ClassFigure\bin\Debug\ClassFigure.dll
+c:\users\greed\documents\visual studio 2015\Projects\ClassFigure\ClassFigure\bin\Debug\ClassFigure.pdb
+c:\users\greed\documents\visual studio 2015\Projects\ClassFigure\ClassFigure\obj\Debug\ClassFigure.dll
+c:\users\greed\documents\visual studio 2015\Projects\ClassFigure\ClassFigure\obj\Debug\ClassFigure.pdb
